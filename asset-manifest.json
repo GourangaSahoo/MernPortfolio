@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MernPortfolio/static/css/main.863903b1.css",
+    "main.js": "/MernPortfolio/static/js/main.f9f1ab66.js",
+    "static/media/gimg3.png": "/MernPortfolio/static/media/gimg3.a7afbcff8f08ea2883d5.png",
+    "static/media/gimg4.png": "/MernPortfolio/static/media/gimg4.75b00e85dc8a118522fd.png",
+    "static/media/gimg2.png": "/MernPortfolio/static/media/gimg2.33e03d8380c6c4935ee5.png",
+    "static/media/pic2.jpg": "/MernPortfolio/static/media/pic2.4e9fc12d54eaeb402480.jpg",
+    "static/media/gimg1.png": "/MernPortfolio/static/media/gimg1.17ff57d836e58466117c.png",
+    "static/media/pic.png": "/MernPortfolio/static/media/pic.a2a5cc3bd8fcc4b760d2.png",
+    "static/media/Gouranga_resume.pdf": "/MernPortfolio/static/media/Gouranga_resume.eab6313d03dcbd6c5ac5.pdf",
+    "index.html": "/MernPortfolio/index.html",
+    "main.863903b1.css.map": "/MernPortfolio/static/css/main.863903b1.css.map",
+    "main.f9f1ab66.js.map": "/MernPortfolio/static/js/main.f9f1ab66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863903b1.css",
+    "static/js/main.f9f1ab66.js"
+  ]
+}
